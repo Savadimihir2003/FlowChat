@@ -89,5 +89,6 @@ FlowChat can use [Ollama](https://ollama.com/) to run large language models (LLM
 - If you get errors related to Ollama, make sure the Ollama server is running and the model is pulled.
 - For any issues, restart both the backend and refresh the frontend.
 
-## License
-MIT License
+<img width="1920" height="1080" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/a5c9593d-6c41-4715-bb1e-20aeb04613d6" />
+<img width="1920" height="1080" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/0211671c-f5fe-4787-84d2-24b3378a5944" />
+<img width="1920" height="1080" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/2feafdb3-5126-4a86-b1b0-d6be137a201e" />
